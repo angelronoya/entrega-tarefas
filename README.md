@@ -1,6 +1,6 @@
 # Entrega de tarefas 1 a 4 Ángel Rodríguez DAM 1
 
-- [Tarefa 1](https://github.com/angelronoya/Apuntes-Parte-2-SQL-Angel-Rodriguez)
+- [Tarefa 1](https://github.com/angelronoya/Apuntes-Parte-2-SQL-Angel-Rodriguez#apuntes2) 
 - [Tarefa 2](https://github.com/angelronoya/Apuntes-Parte-2-SQL-Angel-Rodriguez)
 - [Tarefa 3](https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-)
 - [Tarefa 4](https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-)
